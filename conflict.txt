@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is a file in master
+=======
+this is a file
+updation
+>>>>>>> branch1
